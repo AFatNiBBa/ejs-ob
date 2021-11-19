@@ -1,0 +1,23 @@
+{
+  "name": "ejs-ob",
+  "version": "1.0.0",
+  "description": "Adds an approssimation of the php's output buffer functionality to the \"ejs\" npm module.",
+  "main": "main.js",
+  "scripts": {
+    "save": "npm publish & push"
+  },
+  "keywords": [
+    "output",
+    "buffer",
+    "ejs",
+    "ob",
+    "preprocessor",
+    "nested"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AFatNiBBa/ejs-ob"
+  },
+  "author": "AFatNiBBa",
+  "license": "ISC"
+}
